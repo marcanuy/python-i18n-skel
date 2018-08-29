@@ -18,9 +18,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: main.py:11
-#, fuzzy
 msgid "Hello World!!!!"
-msgstr "Hola Mundo"
+msgstr "Hola Mundo!!!!"
 
 #: main.py:12
 msgid "Good Bye"
